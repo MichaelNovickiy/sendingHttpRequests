@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/sendingHttpRequests/static/css/main.cf664a6f.chunk.css",
+    "main.js": "/sendingHttpRequests/static/js/main.45e56be2.chunk.js",
+    "main.js.map": "/sendingHttpRequests/static/js/main.45e56be2.chunk.js.map",
+    "runtime-main.js": "/sendingHttpRequests/static/js/runtime-main.e9e6ed55.js",
+    "runtime-main.js.map": "/sendingHttpRequests/static/js/runtime-main.e9e6ed55.js.map",
+    "static/js/2.42d1fe8e.chunk.js": "/sendingHttpRequests/static/js/2.42d1fe8e.chunk.js",
+    "static/js/2.42d1fe8e.chunk.js.map": "/sendingHttpRequests/static/js/2.42d1fe8e.chunk.js.map",
+    "index.html": "/sendingHttpRequests/index.html",
+    "precache-manifest.99f38a7f0bd331a509dd4d123fcdb613.js": "/sendingHttpRequests/precache-manifest.99f38a7f0bd331a509dd4d123fcdb613.js",
+    "service-worker.js": "/sendingHttpRequests/service-worker.js",
+    "static/css/main.cf664a6f.chunk.css.map": "/sendingHttpRequests/static/css/main.cf664a6f.chunk.css.map",
+    "static/js/2.42d1fe8e.chunk.js.LICENSE.txt": "/sendingHttpRequests/static/js/2.42d1fe8e.chunk.js.LICENSE.txt",
+    "static/js/main.45e56be2.chunk.js.LICENSE.txt": "/sendingHttpRequests/static/js/main.45e56be2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e9e6ed55.js",
+    "static/js/2.42d1fe8e.chunk.js",
+    "static/css/main.cf664a6f.chunk.css",
+    "static/js/main.45e56be2.chunk.js"
+  ]
+}
